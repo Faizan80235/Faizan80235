@@ -3,8 +3,8 @@
 <h3 align="center">A passionate .NET Developer from Pakistan</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasir-mahmood-124&label=Profile%20views&color=0e75b6&style=flat" alt="yasir-mahmood-124" /></p>
-<img src="https://img.shields.io/github/followers/yasir-mahmood-124?label=Followers&style=flat&color=0e75b6" alt="Followers" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=?Faizan80235&label=Profile%20views&color=0e75b6&style=flat" alt="Faizan80235" /></p>
+<img src="https://img.shields.io/github/followers/Faizan80235?label=Followers&style=flat&color=0e75b6" alt="Followers" /> </p>
 
 - <img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" alt="Mobile Phone" width="25" height="25" /> Cross-platform app developer using Flutter and Dart, with experience in Firebase for backend services.
 
@@ -28,7 +28,7 @@
 
 <h3 align="left"><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" height="30" /> Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/yasir-mahmood-35a326254">
+  <a href=https://www.linkedin.com/in/shabbir-hussain-661595295/">
   <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 
@@ -105,11 +105,11 @@
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=yasir-mahmood-124&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=1" height="220" alt="Streak Graph"  /> <br>
+  <img src="https://streak-stats.demolab.com/?user=Faizan802354&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=1" height="220" alt="Streak Graph"  /> <br>
  
-  <img src="https://github-readme-stats.vercel.app/api?username=yasir-mahmood-124&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=false&order=2&icon_color=39D353&border_color=39D353&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="300" width="600" alt="Stats Graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizan80235&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=false&order=2&icon_color=39D353&border_color=39D353&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="300" width="600" alt="Stats Graph" /> <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasir-mahmood-124&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&border_color=39D353&order=3&disable_animations=true" height="180" alt="Languages Graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Faizan80235&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&border_color=39D353&order=3&disable_animations=true" height="180" alt="Languages Graph" /> <br>
   
 </div>
 
