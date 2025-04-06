@@ -1,79 +1,73 @@
-<!-- BANNER -->
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+👋,+I+am+Faizan+from+Pakistan;Full-Stack+Web+Developer;Forex+Trader;Always+learning+new+tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=3FDDDA&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Faizan;Web+Developer+%7C+Forex+Trader;Clean+Code+%7C+Real-Time+Apps;Welcome+to+My+GitHub+Profile" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Welcome to My GitHub Profile 👨‍💻</h1>
-<p align="center">Building stunning UIs & trading the charts 📈</p>
+<h1 align="center">👨‍💻 Faizan - Full Stack Developer & Trader</h1>
+<p align="center">Building web apps by day, trading charts by night 📊</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-```txt
-💡 A passionate Full Stack Developer and Forex Trader.
-🌐 I love building professional websites, real-time apps, and game logic.
-📚 Currently learning advanced backend + cloud deployment.
-🎯 Goal: Build a SaaS product and scale it!
-🚀 Mission: Keep learning, keep building, keep trading.
-🔧 Tech Stack & Tools
-🧠 Languages
+- 🔭 Working on: Real-time Chat App, HTML5 Game App, TECHNOVA Website
+- 🌱 Learning: Socket.io, AI APIs, Next.js 14, and Tailwind CSS
+- ⚙️ Tech Stack: MERN + REST APIs + WebSockets
+- 📈 Forex Trader with years of experience in market analysis
+- 📨 Email: [faizan@example.com](mailto:faizan@example.com)
+- 🌐 Website: Coming soon...
 
-⚛️ Frontend
+---
 
-🛠️ Backend
+## 💼 Tech Stack & Tools
 
-🧰 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,mongodb,git,github,vscode,vercel" />
+</p>
 
-🧪 Testing & Deployment
+---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Faizan80235&show_icons=true&theme=tokyonight&count_private=true" height="200"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Faizan80235&theme=tokyonight" height="200"/> </p>
-📈 Most Used Languages
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan80235&layout=compact&theme=tokyonight&langs_count=8"/> </p>
-🏆 GitHub Trophies
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Faizan80235&theme=tokyonight&row=2&column=3"/> </p>
-🚀 Projects Showcase
-Here are some of my favorite or featured projects:
+## 📊 GitHub Stats
 
-📱 Chat App (Real-time WhatsApp Style)
-A real-time messaging app with socket.io, React, and Node.js.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizan80235&theme=tokyonight&show_icons=true&count_private=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan80235&layout=compact&theme=tokyonight&langs_count=8" height="200" />
+</p>
 
-🔗 Live Demo
+---
 
-💻 Source Code
+## 🔥 GitHub Streak
 
-🧩 HTML5 Game App
-A custom browser-based game using JavaScript and Canvas.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Faizan80235&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
-🔗 Live Demo
+---
 
-💻 Source Code
+## 🏆 GitHub Trophies
 
-🌐 TECHNOVA - Technology News Website
-Built using Next.js, Tailwind, and Bootstrap.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Faizan80235&theme=tokyonight&no-frame=true&title=MultiLanguage,Commits,Repositories,Followers,Stars" />
+</p>
 
-🔗 technova.vercel.app
+---
 
-💻 GitHub Repo
+## 🌐 Connect with Me
 
-📚 Blog Articles (Optional)
-Coming soon!
+<p align="center">
+  <a href="mailto:faizan@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/faizan80235"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Faizan80235"><img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-🎯 Fun Facts
-I drink tea while coding ☕
+---
 
-I can stare at candlestick charts for hours 📊
+## 👁️ Visitors
 
-I love building UIs that just feel right
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Faizan80235&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
-I believe in Code. Test. Trade. Repeat.
+---
 
-💬 Favorite Quote
-"Don't watch the clock; do what it does. Keep going." — Sam Levenson
-
-🌐 Connect with Me
-<p align="left"> <a href="mailto:faizan@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/faizan80235"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Faizan80235"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a> </p>
-📟 Visitor Count
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Faizan80235&label=Profile%20Views&color=0e75b6&style=flat" alt="Faizan80235" /> </p>
-<p align="center">✨ Thanks for visiting! ✨</p> ```
+<p align="center">Thanks for stopping by 🙏 — <i>Keep Building. Keep Trading. Keep Growing.</i></p>
