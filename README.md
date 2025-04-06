@@ -1,96 +1,47 @@
-<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> I'm Faizan</h1>
+<h1 align="center">Hi 👋, I'm Faizan</h1>
+<h3 align="center">A passionate Web Developer & Forex Trader from Pakistan</h3>
 
-<h3 align="center">A Passionate .NET Developer from Pakistan</h3>
+---
+
+### 🧑‍💻 About Me
+- 🔭 I’m currently working on **React, Next.js, and Tailwind CSS projects**
+- 🌱 I’m currently learning **real-time chat apps and HTML5 game development**
+- 💬 Ask me about **web development, React, and forex trading**
+- 📫 How to reach me: **faizan@example.com**
+- ⚡ Fun fact: I love building clean UIs and trading charts 📈
+
+---
+
+### 🛠️ Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faizan-mahmood-124&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/faizan-mahmood-124?label=Followers&style=flat&color=0e75b6" alt="Followers"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Faizan80235&show_icons=true&theme=tokyonight" alt="Faizan's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faizan80235&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 📫 Connect with Me
 
-- **Cross-platform app developer** using Flutter and Dart, with Firebase backend experience.
-- **Currently pursuing BSCS** at UET, Lahore, enhancing my skills in computer science.
-- Passionate about **creating innovative solutions** and improving user experiences.
-- **Currently working on** [Cyber Vault](https://github.com/affan-ch/Cyber-Vault).
-- **Learning** ASP.NET & Angular.
-- Ask me about **.NET, C++, C#**.
-
----
-
-### 🔥 My Projects
-
-Here are some of the exciting projects I'm working on:
-
-1. **[Cyber Vault](https://github.com/affan-ch/Cyber-Vault)** - A personal vault application that stores sensitive data securely using encryption techniques.
-2. **[Task Manager App](https://github.com/faizan-mahmood-124/Task-Manager-App)** - A task management system with a sleek UI built using Flutter and Firebase.
-3. **[E-commerce Website](https://github.com/faizan-mahmood-124/E-commerce-Site)** - A full-stack e-commerce website built with React, Node.js, Express, and MongoDB.
-
----
-
-### 📫 How to Reach Me
-
-- **Email:** [faizan.mahmood.3795@gmail.com](mailto:faizan.mahmood.3795@gmail.com)
-- **Connect with me:**  
-  <a href="https://linkedin.com/in/faizan-mahmood-35a326254">
-    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
+<p align="left">
+  <a href="https://linkedin.com/in/faizan80235" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://instagram.com/faizan_venture">
-    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"/>
+  <a href="mailto:faizan@example.com">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="gmail" />
   </a>
-
----
-
-### 🛠️ Languages and Tools
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,html,css,js,nodejs,express,react,mongodb,mysql,dart,flutter,firebase,py,figma,ps,vscode,visualstudio" height="40" alt="Tech Stack"/>
-</div>
-
----
-
-### 🌱 Currently Learning
-
-- **ASP.NET Core**
-- **Angular**
-- **Blockchain Development**
-
----
-
-
-
-
-
----
-
-### 📈 My Activity
-
-Here's a snapshot of my most recent activity:
-
-- **Issues Opened:** 15
-- **Pull Requests Created:** 7
-- **Discussions Answered:** 20
-- **Repositories Contributed to:** 12
-
----
-
-### 🧑‍💻 Contributions
-
-I regularly contribute to open-source projects. Here are a few:
-
-- [Open-source Contribution to Flutter](https://github.com/flutter/flutter)
-- [Contributing to .NET Framework](https://github.com/dotnet/core)
-- [JavaScript Libraries Contributions](https://github.com/facebook/react)
-
----
-
-### 🔗 Explore More
-
-- **Portfolio:** [faizan-portfolio.com](http://faizan-portfolio.com)
-- **Blog:** [faizan-dev-blog.com](http://faizan-dev-blog.com)
-- **GitHub Repositories:** [faizan-repositories](https://github.com/faizan-mahmood-124)
-
----
-
+</p>
